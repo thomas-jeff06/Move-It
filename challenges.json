@@ -1,0 +1,12 @@
+[
+    {
+        "type":"body",
+        "description":"Estique seu braço contra o peito e puxe-o utilizando o outro braço",
+        "amount": 60
+    },
+    {
+        "type":"body",
+        "description":"faça 50 flexões de braço em 60 segundos ",
+        "amount": 70
+    }
+]
